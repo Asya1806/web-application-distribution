@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ED/Ye3LscFBUKrp/B4+wDYO48DvMazHDQnEjChHZdlE=",
+  "Source": "WebApplicationDistribution",
+  "BasePath": "_content/WebApplicationDistribution",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
