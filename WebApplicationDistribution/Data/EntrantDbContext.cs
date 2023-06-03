@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebApplicationDistribution.Contracts;
+using WebApplicationDistribution.Contracts.Entrants;
+using WebApplicationDistribution.Contracts.Specialties;
 
 namespace WebApplicationDistribution.Data
 {
@@ -10,7 +12,7 @@ namespace WebApplicationDistribution.Data
 
         }
 
-        public DbSet<Speciality> specialities { get; set; }
+        public DbSet<Specialty> specialities { get; set; }
 
         public DbSet<PassportSeries> passportSeries { get; set; }
 

@@ -80,7 +80,7 @@ namespace WebApplicationDistribution.Migrations
                     AdditionalTraining = table.Column<int>(type: "int", nullable: false),
                     Locality_Id = table.Column<int>(type: "int", nullable: false),
                     PassportSeries_Id = table.Column<int>(type: "int", nullable: false),
-                    PassportNumber = table.Column<int>(type: "int", nullable: false),
+                    PassportNumber = table.Column<int>(type: "nvarchar(50)", nullable: false),
                     Phone = table.Column<string>(type: "nvarchar(50)", nullable: false),
                     CommissionDecision_Id = table.Column<int>(type: "int", nullable: false)
                 },

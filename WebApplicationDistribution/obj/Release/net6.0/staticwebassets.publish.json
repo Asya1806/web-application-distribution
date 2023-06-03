@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "78ELXl1Gb5sb65puMhYKr9fWQ+B4uYNf8XSUqzGy5oA=",
+  "Source": "WebApplicationDistribution",
+  "BasePath": "_content/WebApplicationDistribution",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

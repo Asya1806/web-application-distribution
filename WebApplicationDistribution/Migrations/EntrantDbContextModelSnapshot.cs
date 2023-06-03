@@ -125,7 +125,7 @@ namespace WebApplicationDistribution.Migrations
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<int>("PassportNumber")
-                        .HasColumnType("int");
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<int>("PassportSeries_Id")
                         .HasColumnType("int");
